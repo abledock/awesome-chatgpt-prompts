@@ -59,9 +59,9 @@ Here is a standard user message that you can use with any of the system messages
 
 ## Table of Contents
 
+- [Administrative Assistant](#administrative-assistant)
 - [Accountant](#accountant)
 - [Actor](#actor)
-- [Administrative Assistant](#administrative-assistant)
 - [Architect](#architect)
 - [Artist](#artist)
 - [Attorney](#attorney)
@@ -95,14 +95,13 @@ Here is a standard user message that you can use with any of the system messages
 - [Mechanic](#mechanic)
 - [Musician](#musician)
 - [Network Administrator](#network-administrator)
-- [Nurse](#nurse)
 - [Nutritionist](#nutritionist)
+- [Nurse](#nurse)
 - [Optician](#optician)
 - [Painter](#painter)
 - [Pharmacist](#pharmacist)
 - [Photographer](#photographer)
 - [Physician](#physician)
-- [Physiotherapist](#physiotherapist)
 - [Pilot](#pilot)
 - [Plumber](#plumber)
 - [Police Officer](#police-officer)
@@ -118,12 +117,13 @@ Here is a standard user message that you can use with any of the system messages
 - [Singer](#singer)
 - [Social Media Manager](#social-media-manager)
 - [Teacher](#teacher)
-- [Technical Writer](#technical-writer)
 - [Therapist](#therapist)
+- [Physiotherapist](#physiotherapist)
 - [Translator](#translator)
 - [Undertaker](#undertaker)
 - [Veterinarian](#veterinarian)
 - [Videographer](#videographer)
+- [Technical Writer](#technical-writer)
 
 ### Administrative Assistant
 
